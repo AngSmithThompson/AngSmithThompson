@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AngSmithThompson
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...not sure yet
 - 📫 How to reach me angelathompson48@gmail.com
 
 <!---
